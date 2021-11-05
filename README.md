@@ -1,16 +1,10 @@
 ## <div align="center">Hi there 👋</div>  
   
 
-<br/>  
+<br/>
+<div align="center">Front-end Developer 🌱</div> 
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/76946939?s=400&u=310384c791371b7299e84b5722ab3dda86916975&v=4" align="center" height="250" width="250" />
-</div>  
-  
-
-<br/>  
-
-### <div align="center">Languages</div>  
+<br/>
   
 
 <div align="center">  
@@ -21,17 +15,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 </div>  
 
-### <div align="center">Tools</div>  
-  
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-</div>  
 
 <br/>  
-
+<br/>
 
 <table><tr><td valign="top" width="50%">
 
